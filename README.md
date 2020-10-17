@@ -1,2 +1,2 @@
 # SeleniumFramework
-A Selenium automation suite
+A Selenium automation framework
