@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="regression-suite" parallel="methods" thread-count="2">
+    <test name="regression-test">
+        <classes>
+            <class name="com.qatest.tests.EndToEndTest"/>
+            <class name="com.qatest.tests.ErrorTest"/>
+        </classes>
+    </test>
+</suite>
